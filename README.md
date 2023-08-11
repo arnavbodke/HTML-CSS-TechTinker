@@ -1,2 +1,2 @@
-# Html-CSS-LocalBusinessWebsite
-Capstone Project 2
+# Html-CSS-TechTinker
+Capstone Project (Local Business Website)
